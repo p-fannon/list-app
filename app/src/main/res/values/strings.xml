@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="groceries">
+        <item>Peanut Butter</item>
+        <item>Carrots</item>
+        <item>Greek Yogurt</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$3.50</item>
+        <item>$0.69</item>
+        <item>$4.20</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Invented by George Washington Carver</item>
+        <item>Fresh carrots from the farm</item>
+        <item>Good for your digestive tract</item>
+    </string-array>
+</resources>
